@@ -25,7 +25,7 @@ const RootLayout = () => {
   })
   useEffect(()=>{
     const offset = 500;
-    const duration = 750;
+    const duration = 100;
     
     $(function() {
       $(window).scroll(() => {
