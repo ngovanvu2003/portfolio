@@ -46,10 +46,12 @@ const RootLayout = () => {
   return (
     <>
     <Header/>
+    <div className="container" id="home">
     <Banner/>
     <Skill/>
     <Projects/>
     <Contact/>
+    </div>
     <footer>
       <div title="Về đầu trang" id="top-up">
         <i className="fa-solid fa-chevron-up"></i>
