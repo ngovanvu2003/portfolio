@@ -4,6 +4,7 @@ import Banner from '../pages/client/banners/banner'
 import Skill from '../pages/client/skills/skill'
 import Projects from '../pages/client/project/projects'
 import Contact from '../pages/client/contacts/contact'
+import '../assets/client/root.css'
 
 const RootLayout = () => {
   return (

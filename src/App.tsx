@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import {Routes , Route} from 'react-router-dom'
-import './assets/client/root.css'
+
 import RootLayout from './layout/rootLayout'
 import AdminLayout from './layout/adminLayout'
 
@@ -17,7 +17,7 @@ function App() {
       <Route path='/admin' element={<AdminLayout/>}>
 
       </Route>
-      
+
      </Routes>
     </>
   )
