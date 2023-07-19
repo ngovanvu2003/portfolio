@@ -24,7 +24,7 @@ const Projects = () => {
           </div>
          
         </div>
-      </div>
+      </div>    
 
       <div className="item">
         <img className="image" src="../../../../public/img1.jpg" alt="" />
@@ -45,8 +45,7 @@ const Projects = () => {
           </div>
          
         </div>
-      </div>
-
+      </div>    
       <div className="item">
         <img className="image" src="../../../../public/img1.jpg" alt="" />
         <div className="middle">
@@ -66,10 +65,7 @@ const Projects = () => {
           </div>
          
         </div>
-      </div>
-
-      
-
+      </div>    
     </div>
   </div>
   )

@@ -34,7 +34,7 @@ const Banner = () => {
       </div>
     </div>
     <div className="avatar">
-      <img src="../../../../public/avatar (1).png" alt="" />
+      <img src="./public/avatar (1).png" alt="" />
     </div>
   </div>
   )
