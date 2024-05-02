@@ -1,15 +1,15 @@
-import React from 'react'
+
 
 const Banner = () => {
   return (
     <div className="banner" >
     <div className="content">
-      <p className="welcome">WELCOME TO MY PROFILE</p>
+      <p className="welcome">WELCOME TO MY PROFILE </p>
       <h1>
         Hi, I'm Ngo Vu <br />
         a
         <div className="gradientText">
-          <div className="job" data-job1="Developer." data-job2="FrondEnd."></div>
+          <div className="job" data-job1=" Developer." data-job2=" FrondEnd."></div>
         </div>
       </h1>
       <p>
