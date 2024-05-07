@@ -6,7 +6,7 @@ import Projects from "../pages/client/project/projects";
 import Contact from "../pages/client/contacts/contact";
 import "../assets/client/root.css";
 import $ from "jquery";
-import Chat from "../pages/client/chat_to_me/chat";
+// import Chat from "../pages/client/chat_to_me/chat";
 
 const RootLayout = () => {
   useEffect(() => {
@@ -55,7 +55,7 @@ const RootLayout = () => {
         <Projects />
         <Contact />
       </div>
-      <Chat />
+      {/* <Chat /> */}
       <footer>
         <div title="Về đầu trang" id="top-up">
           <i className="fa-solid fa-chevron-up"></i>
